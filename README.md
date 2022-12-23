@@ -3,7 +3,7 @@
 The Laterna series of boards are mainly intended to be used with [WLED software ](https://github.com/Aircoookie/WLED "WLED's Homepage"), but you can also program the board using your own code or other library via [Arduino](https://www.arduino.cc "Arduino Homepage"), [ESPHome](https://esphome.io "ESPHome Homepage"), [Tasmota](https://tasmota.github.io/docs "Tasmota Homepage") etc.
 
 
-The controller can be ordered from [Aliexpress](https://www.aliexpress.com/item/1005003856791476.html?spm=5261.ProductManageOnline.0.0.69f24edfKVGmPr)<br>
+The controller can be ordered from [Aliexpress](https://www.aliexpress.com/item/1005004759774589.html)<br>
 
 <h3>Features</h3>
 Chip:   ESP-01F 
